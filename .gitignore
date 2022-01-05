@@ -19,5 +19,10 @@ docs/**/*.pdf
 #忽略所有的.idea文件夹
 .idea
 
+# 忽略 .env 文件
+.env
+
+#忽略 .flaskenv 文件
+.flaskenv
 
 
